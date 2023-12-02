@@ -7,7 +7,7 @@ const Header = () => {
       <Navbar expand="lg" bg="dark" variant="dark" collapseOnSelect>
         <Container>
           <LinkContainer to="/">
-            <Navbar.Brand>Nidal&Zihar</Navbar.Brand>
+            <Navbar.Brand>Online Store</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
